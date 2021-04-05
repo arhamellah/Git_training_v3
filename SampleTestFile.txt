@@ -1,2 +1,5 @@
 This is sample File 1
+
 bababababanana bababababanana bababababananaanananannanan
+Testing reset commit 1This is Comparison Lecture change in file 1
+
