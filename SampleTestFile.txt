@@ -1,2 +1,2 @@
-Git Revert commit 2
 This is sample File 1
+Testing reset commit 1
